@@ -1,52 +1,32 @@
-# Prerequisites
-*.d
+# Created by https://www.gitignore.io/api/macos
+# Edit at https://www.gitignore.io/?templates=macos
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Icon must end with two \r
+Icon
 
-# Precompiled Headers
-*.gch
-*.pch
+# Thumbnails
+._*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# End of https://www.gitignore.io/api/macos
