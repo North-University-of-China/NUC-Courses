@@ -17,102 +17,102 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 #### 大一上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [高等数学 5]() | 考试课 | 笔试+闭卷 | 平时+考试| 5.5 | | 
-| [线性代数]() | 考试课 | 笔试+闭卷 | 平时+考试| 2.5 | |  
-| [C 语言程序设计]() | 考试课 | 笔试+闭卷 | 平时+考试 | 3.5 |  | 
-| [C 语言程序设计实验]() | 考试课 | 闭卷+机试 | 机试 | 1.0 |  |
-| [大学英语 1]() | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |  
-| [大学英语口语 1]() | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
-| [体育 1]() | 考试课 | 体育 | 平时+考试 | 2.0 |  |
-| [大学生安全教育]() | 考查课 | 开卷+论文 | 平时+考试 | 2.5 | |
-| [大学生实用心理学]() | 考查课 | 开卷+论文 | 平时+考试 | 1.0 | |
-| [军训与军事理论]() | 考试课 | 闭卷+笔试 | 军训+军事理论 | 3.0 | |
-| [思想道德修养与法律基础]() | 考试课 | 开卷+论文 | 平时+论文 | 2.5 | |
-| [形势与政策 1]() | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
+| [高等数学 5](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) | 考试课 | 笔试+闭卷 | 平时+考试| 5.5 | | 
+| [线性代数](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0) | 考试课 | 笔试+闭卷 | 平时+考试| 2.5 | |  
+| [C 语言程序设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/C%20%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | 考试课 | 笔试+闭卷 | 平时+考试 | 3.5 |  | 
+| [C 语言程序设计实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/C%20%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C) | 考试课 | 闭卷+机试 | 机试 | 1.0 |  |
+| [大学英语 1](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD) | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |  
+| [大学英语口语 1](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD) | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
+| [体育 1](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BD%93%E8%82%B2) | 考试课 | 体育 | 平时+考试 | 2.0 |  |
+| [大学生安全教育](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2) | 考查课 | 开卷+论文 | 平时+考试 | 2.5 | |
+| [大学生实用心理学](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E7%94%A8%E5%BF%83%E7%90%86%E5%AD%A6) | 考查课 | 开卷+论文 | 平时+考试 | 1.0 | |
+| [军训与军事理论](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%86%9B%E8%AE%AD%E4%B8%8E%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA) | 考试课 | 闭卷+笔试 | 军训+军事理论 | 3.0 | |
+| [思想道德修养与法律基础](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80) | 考试课 | 开卷+论文 | 平时+论文 | 2.5 | |
+| [形势与政策 1](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
 #### 大一下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [高等数学 6]() | 考试课 | 闭卷+笔试 | 平时+考试 | 6.0 |  |
-| [离散数学]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
-| [大学物理 3]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.5 |  |
-| [程序设计实训]() |  |  | 文档+程序 | 2.0 |  |
-| [面向对象程序设计]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [面向对象程序设计实验]() | 考查课 | 闭卷+机试 | 平时+机试 | 2.0 |  |
-| [面向对象程序设计(Java)实训]() |  |  | 文档+程序 | 2.0 |  |
-| [大学英语 2]() | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |
-| [大学英语口语 2]() | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
-| [体育 2]() | 考试课 | 体育 | 平时+考试 | 2.0 |  |
-| [大学生职业发展与就业指导]() | 考查课 | 开卷+论文 | 平时+论文 | 1.0 |  |
-| [中国近现代史纲要]() | 考查课 | 开卷+论文 | 平时+论文 | 2.0 |  |
-| [形势与政策 2]() | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
+| [高等数学 6](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) | 考试课 | 闭卷+笔试 | 平时+考试 | 6.0 |  |
+| [离散数学](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
+| [大学物理 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.5 |  |
+| [程序设计实训](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD) |  |  | 文档+程序 | 2.0 |  |
+| [面向对象程序设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [面向对象程序设计实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C) | 考查课 | 闭卷+机试 | 平时+机试 | 2.0 |  |
+| [面向对象程序设计(Java)实训](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(Java)%E5%AE%9E%E8%AE%AD) |  |  | 文档+程序 | 2.0 |  |
+| [大学英语 2](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD) | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |
+| [大学英语口语 2](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD) | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
+| [体育 2](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BD%93%E8%82%B2) | 考试课 | 体育 | 平时+考试 | 2.0 |  |
+| [大学生职业发展与就业指导](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%8E%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%AF%BC) | 考查课 | 开卷+论文 | 平时+论文 | 1.0 |  |
+| [中国近现代史纲要](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81) | 考查课 | 开卷+论文 | 平时+论文 | 2.0 |  |
+| [形势与政策 2](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
 #### 大二上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [概率论与数理统计]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [大学物理实验]() | 考查课 | 闭卷+实验 | 平时+实验 | 1.5 |  |
-| [数字电子技术]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
-| [数据结构与算法]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
-| [数据结构与算法课程设计]() |  |  | 文档+程序 | 2.0 |  |
-| [软件工程导论]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [毛泽东思想和中国特色社会主义理论体系概论]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.5 |  |
-| [大学英语 3]() | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |
-| [大学英语口语 3]() | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
-| [体育 3]() | 考试课 | 体育 | 平时+考试 | 2.0 |  |
-| [创业基础]() | 考查课 | 开卷+商业企划书 | 平时+商业企划书 | 2.0 |  |
-| [形势与政策 3]() | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
+| [概率论与数理统计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [大学物理实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C) | 考查课 | 闭卷+实验 | 平时+实验 | 1.5 |  |
+| [数字电子技术](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
+| [数据结构与算法](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
+| [数据结构与算法课程设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1) |  |  | 文档+程序 | 2.0 |  |
+| [软件工程导论](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [毛泽东思想和中国特色社会主义理论体系概论](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.5 |  |
+| [大学英语 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD) | 考试课 | 笔试+闭卷 | 平时+考试 | 4.0 |  |
+| [大学英语口语 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD) | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
+| [体育 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BD%93%E8%82%B2) | 考试课 | 体育 | 平时+考试 | 2.0 |  |
+| [创业基础](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%88%9B%E4%B8%9A%E5%9F%BA%E7%A1%80) | 考查课 | 开卷+商业企划书 | 平时+商业企划书 | 2.0 |  |
+| [形势与政策 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
 #### 大二下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [计算机网络]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [计算机组成原理]() | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
-| [数据库概论]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
-| [数据库课程设计]() |  |  | 文档+程序 | 2.0 |  |
-| [网页设计与网站建设(JSP)]() | 考试课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |
-| [网页设计与网站建设(JSP)实验]() | 考查课 | 开卷+实验 | 平时+考试 | 1.5 |  |
-| [软件构造]() | 考查课 | 开卷+课堂测验 | 平时 | 3.0 |  |
-| [人机交互的软件工程方法]() | 考查课 | 开卷+笔试 | 平时+考试 | 2.5 |  |
-| [马克思主义基本原理概论]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [大学英语 4]() | 考试课 | 笔试+闭卷 | 平时+考试 | 3.0 |  |
-| [大学英语口语 4]() | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
-| [体育 4]() | 考试课 | 体育 | 平时+考试 | 2.0 |  |
-| [形势与政策 4]() | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
+| [计算机网络](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [计算机组成原理](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86) | 考试课 | 闭卷+笔试 | 平时+考试 | 4.0 |  |
+| [数据库概论](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A6%82%E8%AE%BA) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
+| [数据库课程设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1) |  |  | 文档+程序 | 2.0 |  |
+| [网页设计与网站建设(JSP)](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE(JSP)) | 考试课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |
+| [网页设计与网站建设(JSP)实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE(JSP)%E5%AE%9E%E9%AA%8C) | 考查课 | 开卷+实验 | 平时+考试 | 1.5 |  |
+| [软件构造](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0) | 考查课 | 开卷+课堂测验 | 平时 | 3.0 |  |
+| [人机交互的软件工程方法](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%96%B9%E6%B3%95) | 考查课 | 开卷+笔试 | 平时+考试 | 2.5 |  |
+| [马克思主义基本原理概论](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [大学英语 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD) | 考试课 | 笔试+闭卷 | 平时+考试 | 3.0 |  |
+| [大学英语口语 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD) | 考查课 | 托福独立口语 | 平时+考试 | 1.0 |  |
+| [体育 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BD%93%E8%82%B2) | 考试课 | 体育 | 平时+考试 | 2.0 |  |
+| [形势与政策 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
 #### 大二 / 大三衔接暑假
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [社会实践]() | | | 社会实践报告 | 2.0 | | 
+| [社会实践](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5) | | | 社会实践报告 | 2.0 | | 
 
 #### 大三上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [Java EE 框架与应用开发]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
-| [Java EE 框架与应用开发实验]() | 考查课 | 开卷+实验 | 平时+实验 | 1.5 |  |
-| [Java EE 框架与应用开发实训]() |  |  | 文档+实验 | 2.0 |  |
-| [操作系统]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
-| [操作系统课程设计]() |  |  | 文档+程序 | 2.0 |  |
-| [软件需求工程]() | 考试课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |
-| [软件质量保证与测试]() | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
-| [软件设计与体系结构]() | 考查课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |  
-| [公益劳动]() |  |  | 平时 | 1.0 |  |
+| [Java EE 框架与应用开发](https://github.com/North-University-of-China/NUC-Courses/tree/master/Java%20EE%20%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
+| [Java EE 框架与应用开发实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/Java%20EE%20%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E9%AA%8C) | 考查课 | 开卷+实验 | 平时+实验 | 1.5 |  |
+| [Java EE 框架与应用开发实训](https://github.com/North-University-of-China/NUC-Courses/tree/master/Java%20EE%20%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E8%AE%AD) |  |  | 文档+实验 | 2.0 |  |
+| [操作系统](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
+| [操作系统课程设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1) |  |  | 文档+程序 | 2.0 |  |
+| [软件需求工程](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B) | 考试课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |
+| [软件质量保证与测试](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81%E4%B8%8E%E6%B5%8B%E8%AF%95) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
+| [软件设计与体系结构](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84) | 考查课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |  
+| [公益劳动](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%85%AC%E7%9B%8A%E5%8A%B3%E5%8A%A8) |  |  | 平时 | 1.0 |  |
 
 #### 大三下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [Oracle 数据库]() | 考查课 | 开卷+笔试 | 平时+考试 | 3.0 |  |
-| [软件建模技术]() | 考试课 | 笔试+闭卷 | 平时+实验+笔试 | 2.5 |  
-| [算法分析与设计]() | 考查课 | 开卷+笔试 | 平时+实验+考试 | 2.0 | | 
-| [Linux 程序设计]() | 考查课 | 开卷+笔试 | 平时+考试 | 2.0 |  |
-| [软件开发与测试实训]() |  |  | 文档+程序 | 3.0 |  |
-| [软件测试工具与实践]() | 考查课 | 开卷+笔试 | 平时+考试 | 1.5 |  |  
-| [软件测试工具与实践实验]() | 考查课 | 开卷+笔试 | 平时+考试 | 1.0 |  |
+| [Oracle 数据库](https://github.com/North-University-of-China/NUC-Courses/tree/master/Oracle%20%E6%95%B0%E6%8D%AE%E5%BA%93) | 考查课 | 开卷+笔试 | 平时+考试 | 3.0 |  |
+| [软件建模技术](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E5%BB%BA%E6%A8%A1%E6%8A%80%E6%9C%AF) | 考试课 | 笔试+闭卷 | 平时+实验+笔试 | 2.5 |  
+| [算法分析与设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) | 考查课 | 开卷+笔试 | 平时+实验+考试 | 2.0 | | 
+| [Linux 程序设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/Linux%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | 考查课 | 开卷+笔试 | 平时+考试 | 2.0 |  |
+| [软件开发与测试实训](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E5%AE%9E%E8%AE%AD) |  |  | 文档+程序 | 3.0 |  |
+| [软件测试工具与实践](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%AE%9E%E8%B7%B5) | 考查课 | 开卷+笔试 | 平时+考试 | 1.5 |  |  
+| [软件测试工具与实践实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C) | 考查课 | 开卷+笔试 | 平时+考试 | 1.0 |  |
 
 #### 大四上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
-| [大学生职业发展与就业指导]() | 考查课 | 开卷+论文 | 平时+论文 | 1.0 |  |
+| [大学生职业发展与就业指导](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%8E%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%AF%BC) | 考查课 | 开卷+论文 | 平时+论文 | 1.0 |  |
 
 ### 结语
 本学习指南的编写，在一定程度上参考了上海交通大学、中国科学技术大学等开放课程资源的目录结构。希望能在完稿之际，共同推出中国大学课程资源共享计划，以终为始，砥砺前行。
