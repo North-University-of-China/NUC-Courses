@@ -1,20 +1,44 @@
 # NUC-Courses
 中北大学学习指南
 
-### 箴言
+1. [箴言](#TOC-箴言)
+2. [前言](#TOC-前言)
+3. [人地两生]()
+    * [校园生活]()
+    * [学习氛围]()
+4. [课程](#TOC-课程)
+5. [息息相关]()
+    * [助学]()
+    * [评奖评优]()
+    * [保研]()
+    * [入党]()
+    * [教师评价]()
+6. [就业]()
+    * [工作]()
+    * [考研]()
+    * [留学]()
+7. [大事记]()
+8. [贡献](#TOC-贡献)
+9. [许可](#TOC-许可)
+10. [结语](#TOC-结语)
+11. [附录](#TOC-附录)
+    * [相关链接](#TOC-相关链接)
+    * [中国大学课程资源共享计划](#TOC-中国大学课程资源共享计划)
+
+## <a name="TOC-箴言"></a>箴言
 Talent hits a target no one else can hit; Genius hits a target no one else can see.   
 
 能者达人所不能，智者达人所未见。
 
-### 前言
+## <a name="TOC-前言"></a>前言
 有关学习指南的构想是由于许多任课教师关于课程的相关情况说明含糊，对于课程信息（教师评价、课程讲授范围、往年试卷）的获取，多是通过前几届的学长、学姐传授而获得的。
 
 信息的获取已成为阻碍同学们进一步前进的障碍；其次是想让大家进一步了解中北大学的实际学习情况与氛围，对于将要报考中北大学的考生有一个心理预期。
 
 最后，也是希望大家可以尽早通过一些不必要的课程，真正追求自己的前进方向。
 
-### 课程
-#### 大一上
+## <a name="TOC-课程"></a>课程
+### 大一上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [高等数学 5](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) | 考试课 | 笔试+闭卷 | 平时+考试| 5.5 | | 
@@ -30,7 +54,7 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [思想道德修养与法律基础](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80) | 考试课 | 开卷+论文 | 平时+论文 | 2.5 | |
 | [形势与政策 1](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
-#### 大一下
+### 大一下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [高等数学 6](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) | 考试课 | 闭卷+笔试 | 平时+考试 | 6.0 |  |
@@ -47,7 +71,7 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [中国近现代史纲要](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81) | 考查课 | 开卷+论文 | 平时+论文 | 2.0 |  |
 | [形势与政策 2](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
-#### 大二上
+### 大二上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [概率论与数理统计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
@@ -63,7 +87,7 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [创业基础](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%88%9B%E4%B8%9A%E5%9F%BA%E7%A1%80) | 考查课 | 开卷+商业企划书 | 平时+商业企划书 | 2.0 |  |
 | [形势与政策 3](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
-#### 大二下
+### 大二下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [计算机网络](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.0 |  |
@@ -80,12 +104,12 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [体育 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BD%93%E8%82%B2) | 考试课 | 体育 | 平时+考试 | 2.0 |  |
 | [形势与政策 4](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 考查课 | 开卷+论文 | 平时+论文 | 0.5 | |
 
-#### 大二 / 大三衔接暑假
+### 大二 / 大三衔接暑假
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [社会实践](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5) | | | 社会实践报告 | 2.0 | | 
 
-#### 大三上
+### 大三上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [Java EE 框架与应用开发](https://github.com/North-University-of-China/NUC-Courses/tree/master/Java%20EE%20%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91) | 考试课 | 闭卷+笔试 | 平时+考试 | 3.5 |  |
@@ -98,7 +122,7 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [软件设计与体系结构](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84) | 考查课 | 闭卷+笔试 | 平时+考试 | 2.0 |  |  
 | [公益劳动](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%85%AC%E7%9B%8A%E5%8A%B3%E5%8A%A8) |  |  | 平时 | 1.0 |  |
 
-#### 大三下
+### 大三下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [Oracle 数据库](https://github.com/North-University-of-China/NUC-Courses/tree/master/Oracle%20%E6%95%B0%E6%8D%AE%E5%BA%93) | 考查课 | 开卷+笔试 | 平时+考试 | 3.0 |  |
@@ -109,24 +133,34 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 | [软件测试工具与实践](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%AE%9E%E8%B7%B5) | 考查课 | 开卷+笔试 | 平时+考试 | 1.5 |  |  
 | [软件测试工具与实践实验](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C) | 考查课 | 开卷+笔试 | 平时+考试 | 1.0 |  |
 
-#### 大四上
+### 大四上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 课时数 |
 | --- | --- | --- | --- | --- | --- |
 | [大学生职业发展与就业指导](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%8E%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%AF%BC) | 考查课 | 开卷+论文 | 平时+论文 | 1.0 |  |
 
-### 结语
+## <a name="TOC-贡献"></a>贡献
+
+## <a name="TOC-许可"></a>许可
+
+This project is licensed under the terms of the [MIT license](LICENSE).
+
+## <a name="TOC-结语"></a>结语
 本学习指南的编写，在一定程度上参考了上海交通大学、中国科学技术大学等开放课程资源的目录结构。希望能在完稿之际，共同推出中国大学课程资源共享计划，以终为始，砥砺前行。
 
-### 中国大学课程资源共享计划
-[北京大学](https://github.com/lib-pku/libpku)  
-[北京林业大学](https://github.com/bljx/BFU-leaf)  
-[东南大学](https://github.com/zjdx1998/seucourseshare)  
-[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
-[南京大学](https://github.com/idealclover/NJU-Review-Materials)  
-[上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses)  
-[浙江大学](https://github.com/QSCTech/zju-icicles)  
-[中国科学技术大学1](https://github.com/USTC-Resource/USTC-Course)  
-[中国科学技术大学2](https://github.com/15172658790/Blog)  
-[中山大学](https://github.com/sysuexam/SYSU-Exam)
+## <a name="TOC-附录"></a>附录
+
+### <a name="TOC-相关链接"></a>相关链接
+
+### <a name="TOC-中国大学课程资源共享计划"></a>中国大学课程资源共享计划
+* [北京大学](https://github.com/lib-pku/libpku)  
+* [北京林业大学](https://github.com/bljx/BFU-leaf)  
+* [东南大学](https://github.com/zjdx1998/seucourseshare)  
+* [清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
+* [南京大学](https://github.com/idealclover/NJU-Review-Materials)  
+* [上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses)  
+* [浙江大学](https://github.com/QSCTech/zju-icicles)  
+* [中国科学技术大学1](https://github.com/USTC-Resource/USTC-Course)  
+* [中国科学技术大学2](https://github.com/15172658790/Blog)  
+* [中山大学](https://github.com/sysuexam/SYSU-Exam)
 
 未完，正在补充...
