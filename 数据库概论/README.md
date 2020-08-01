@@ -1,6 +1,8 @@
 # 数据库概论
 
 ### 说明
+- 开课院系：软件学院
+- 本门课程分为授课学时（46.0）和实验学时（10.0）。
 - 本门课程的配套课程是[数据库课程设计](https://github.com/SkyCo/NUC-Courses/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
 
 ### 关于课堂
