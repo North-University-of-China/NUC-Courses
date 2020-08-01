@@ -137,14 +137,14 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 ### 大四上
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 学时数 |
 | --- | --- | --- | --- | :-: | :-: |
-| [企业实训](#) | 考查课 | | | 10.0 | 5.5 个月 |
+| [企业实训](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E4%BC%81%E4%B8%9A%E5%AE%9E%E8%AE%AD) | 考查课 | | | 10.0 | 5.5 个月 |
 | [大学生职业发展与就业指导](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%8E%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%AF%BC) | 考查课 | 开卷+论文 | 平时+论文 | 1.0 | 16.0 |
 
 ### 大四下
 | 名称 | 考试类型 | 考核方式 | 成绩构成 | 学分 | 学时数 |
 | --- | --- | --- | --- | :-: | :-: |
-| [毕业实习](#) | 考查课 | | | 4.0 | 2 学期 |
-| [毕业设计](#) | 考查课 | | | 10.0 | 2 学期 |
+| [毕业实习](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%AF%95%E4%B8%9A%E5%AE%9E%E4%B9%A0) | 考查课 | | | 4.0 | 2 学期 |
+| [毕业设计](https://github.com/North-University-of-China/NUC-Courses/tree/master/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1) | 考查课 | | | 10.0 | 2 学期 |
 
 ## <a name="TOC-贡献"></a>贡献
 
