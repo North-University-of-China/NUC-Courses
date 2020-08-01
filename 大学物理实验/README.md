@@ -1,6 +1,7 @@
 # 大学物理实验
 
 ### 说明
+- 开课院系：理学院
 - 本课程是[大学物理](https://github.com/SkyCo/NUC-Courses/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86)的配套课程
 
 ### 平日课堂
