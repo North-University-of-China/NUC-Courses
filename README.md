@@ -157,7 +157,23 @@ This project is licensed under the terms of the [MIT license](LICENSE).
 
 ## <a name="TOC-附录"></a>附录
 
-### <a name="TOC-相关链接"></a>相关链接
+### <a name="TOC-相关链接"></a>相关链接  
+
+- 与学校相关
+
+| 名称 | 网址 |
+| --- | --- |
+| 中北大学官网 | http://www.nuc.edu.cn/ |
+| 中北大学各学院官网导航 | http://www.nuc.edu.cn/jxjg.htm#tips |  
+
+- 与学生相关
+
+| 名称 | 网址 |
+| --- | --- |
+| 教学管理 | http://jxgl.nuc.edu.cn/ |
+| 教务处 | http://jwc.nuc.edu.cn/ |  
+
+注：部分网站需要校园网/内网进行访问
 
 ### <a name="TOC-中国大学课程资源共享计划"></a>中国大学课程资源共享计划
 * [北京大学](https://github.com/lib-pku/libpku)  
