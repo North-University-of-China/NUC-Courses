@@ -1,52 +1,73 @@
-# Prerequisites
-*.d
+# Created by https://www.gitignore.io/api/linux,macos,windows
+# Edit at https://www.gitignore.io/?templates=linux,macos,windows
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### Linux ###
+*~
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-# Precompiled Headers
-*.gch
-*.pch
+# KDE directory preferences
+.directory
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Icon must end with two \r
+Icon
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.gitignore.io/api/linux,macos,windows
