@@ -156,7 +156,7 @@ Talent hits a target no one else can hit; Genius hits a target no one else can s
 This project is licensed under the terms of the [MIT license](LICENSE).
 
 ## <a name="TOC-结语"></a>结语
-本学习指南的编写，在一定程度上参考了上海交通大学、中国科学技术大学等开放课程资源的目录结构。希望能在完稿之际，共同推出中国大学课程资源共享计划，以终为始，砥砺前行。
+本学习指南的编写，在一定程度上参考了上海交通大学、中国科学技术大学等开放课程资源的目录结构。希望能在完稿之际，共同推出中国大学课程资源共享计划。以终为始，砥砺前行。
 
 ## <a name="TOC-附录"></a>附录
 
@@ -175,6 +175,9 @@ This project is licensed under the terms of the [MIT license](LICENSE).
 | --- | --- |
 | 教学管理 | http://jxgl.nuc.edu.cn/ |
 | 教务处 | http://jwc.nuc.edu.cn/ |  
+| 校长信箱 | http://39.98.190.134/Principal/Home |
+| 校园邮箱 | http://mail.st.nuc.edu.cn/ |
+
 
 注：部分网站需要校园网/内网进行访问
 
